@@ -1,0 +1,48 @@
+p {
+    color: red;
+    font-size: 19px;
+}
+body {
+	height: 100%;
+	width: 100%;
+}
+#header {
+	float: left;
+	clear: both;
+	height: 20%;
+	width: 100%;
+    background-color: yellow;
+}
+#menu {
+	bottom: 0;
+	background-color: orange;	
+}
+.container {
+	float: left;
+	clear: both;
+	height: 60%;
+	width: 100%;
+	background-color: red;
+}
+.left-sidebar {
+	float: left;
+	position: relative;
+	width: 20%;
+}
+.content {
+	position: relative;
+	width: 60%;
+}
+.right-sidebar {
+	float: right;
+	position: relative;
+	width: 20%;
+}
+
+#footer{
+	float: left;
+	clear: both;
+	height: 20%;
+	width: 100%;
+	background-color: green;
+}
